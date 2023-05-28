@@ -63,4 +63,16 @@
             }
         ]
     }
-]
+  {
+        "label": "bosanski",
+        "label_en": "Bosnian",
+        "label_lat": "bosnian",
+        "lang_dir": "LTR",
+        "code": "bs",
+        "available": true,
+        "translators": [ // List of people who contributed to the translation
+            {
+                "name": "Arnel Šarić Sharan",
+                "url": "https://metalhead.club/@sharan"
+            }
+        ]
